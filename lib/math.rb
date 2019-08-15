@@ -9,8 +9,9 @@ end
 p subtraction(10,5)
 
 def division(num1, num2)
-
+  num1 / num2
 end
+p division()
 
 def multiplication(num1, num2)
 
