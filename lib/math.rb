@@ -16,10 +16,10 @@ p division(50,2)
 def multiplication(num1, num2)
   num1 * num2
 end
-p multiplication()
+p multiplication(4,30)
 
 def modulo(num1, num2)
-
+  num1
 end
 
 def square_root(num)
