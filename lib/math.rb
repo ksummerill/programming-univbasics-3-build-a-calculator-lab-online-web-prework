@@ -1,5 +1,5 @@
 def addition(num1, num2)
-  p addition
+  p addition(5, 4)
 end
 addition(5, 4)
 
