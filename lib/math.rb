@@ -14,8 +14,9 @@ end
 p division(50,2)
 
 def multiplication(num1, num2)
-
+  num1 * num2
 end
+p multiplication()
 
 def modulo(num1, num2)
 
